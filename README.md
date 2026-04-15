@@ -221,43 +221,8 @@ client\Winuxlink_client.exe 127.0.0.1 8899 -u admin -p password
 - ✅ 日志系统
 - ✅ 跨平台支持
 
-## 贡献指南
-
-欢迎提交 Issue 和 Pull Request 来帮助改进这个项目。
-
-### 贡献步骤
-
-1. Fork 项目仓库
-2. 创建功能分支 (`git checkout -b feature/amazing-feature`)
-3. 提交更改 (`git commit -m 'Add some amazing feature'`)
-4. 推送到分支 (`git push origin feature/amazing-feature`)
-5. 打开 Pull Request
-
-### 代码风格
-
-- 遵循 C++17 标准
-- 使用 4 个空格进行缩进
-- 类名使用 PascalCase
-- 函数名和变量名使用 camelCase
-- 常量使用全大写
-
 ## 许可证
 
 本项目采用 GNU Affero General Public License v3.0 许可证，详见 LICENSE 文件。
-
-### 许可证说明
-
-GNU Affero General Public License v3.0 (AGPLv3) 是一个 copyleft 许可证，要求：
-- 任何修改本软件的人都必须在相同许可证下发布修改后的版本
-- 如果您将本软件作为网络服务提供，您必须向用户提供源代码
-- 所有衍生作品也必须在 AGPLv3 下发布
-
-这确保了软件的自由使用、修改和分发。
-
-## 致谢
-
-感谢所有为这个项目做出贡献的开发者！
-
----
 
 ⭐ 如果您觉得这个项目有用，请给它点个星！
