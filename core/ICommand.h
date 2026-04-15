@@ -4,7 +4,6 @@
 #include <cstdint>     
 #include <string>      
 #include "Agreement.h" 
-#include "NetworkPremise.h"
 namespace winuxlink
 {
 class ICommand {

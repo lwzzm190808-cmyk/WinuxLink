@@ -3,7 +3,7 @@
 #include "Logger.h"
 #include <cstring>
 #include <algorithm>
-
+#include "NetworkPremise.h"
 #ifdef _WIN32
     #include <windows.h>
     #include <fileapi.h>   // FindFirstFileA, etc.
