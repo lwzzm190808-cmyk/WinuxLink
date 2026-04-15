@@ -3,6 +3,7 @@
 #include "Logger.h"
 #include <cstring>
 #include <sstream>
+#include "NetworkPremise.h"
 
 // 跨平台系统认证头文件
 #ifdef _WIN32

@@ -4,6 +4,7 @@
 #include "PacketBuilder.h"
 #include "Logger.h"
 #include <chrono>
+#include "NetworkPremise.h"
 
 namespace winuxlink {
 

@@ -2,6 +2,7 @@
 #include "PutCommand.h"
 #include "Logger.h"
 #include <fstream>
+#include <NetworkPremise.h>
 
 namespace winuxlink {
 

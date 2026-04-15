@@ -5,6 +5,7 @@
 #include <sstream>
 #include <iomanip>
 #include <ncrypt.h>
+#include "NetworkPremise.h"
 
 // 字节序转换宏
 #if defined(_WIN32)

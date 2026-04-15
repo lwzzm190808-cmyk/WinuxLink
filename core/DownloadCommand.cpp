@@ -2,6 +2,7 @@
 #include "Logger.h"
 #include <fstream>
 #include <cstring>
+#include "NetworkPremise.h"
 
 namespace winuxlink {
 
