@@ -1,7 +1,10 @@
 #pragma once
 
 #include <cstdint>
+<<<<<<< HEAD
 #include <cstddef>
+=======
+>>>>>>> b0bac17c4af0bcf0f9944b5db0056c9bd1427185
 
 namespace winuxlink
 {
