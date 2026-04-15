@@ -7,7 +7,7 @@
 
 # ---------- 编译器与基础选项 ----------
 CXX      = g++
-CXXFLAGS = -std=c++17 -Wall -Wextra -Icore 
+CXXFLAGS = -std=c++17 -Wall -Wextra -Icore -Wno-deprecated-declarations
 LDFLAGS  = -static
 
 # ---------- 平台检测 ----------

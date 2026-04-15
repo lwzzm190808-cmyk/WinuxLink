@@ -18,6 +18,8 @@
     #include <sys/types.h>
     #include <arpa/inet.h>
     #include <endian.h>
+    #include <unistd.h>
+    #include <fcntl.h>
 #endif
 
 namespace winuxlink
