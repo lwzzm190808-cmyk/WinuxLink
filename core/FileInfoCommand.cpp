@@ -4,12 +4,12 @@
 #include <cstring>
 #include <sstream>
 #include <iomanip>
-#include <ncrypt.h>
 #include "NetworkPremise.h"
 
 // 字节序转换宏
 #if defined(_WIN32)
     #include <windows.h>
+    #include <wincrypt.h>
     #define htobe64(x) _byteswap_uint64(x)
     #define be64toh(x) _byteswap_uint64(x)
 #elif defined(__APPLE__)
