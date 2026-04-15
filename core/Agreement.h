@@ -1,7 +1,6 @@
 #pragma once
 
 #include <cstdint>
-#include <csdtdef>
 
 namespace winuxlink
 {
